@@ -1,0 +1,14 @@
+{
+  "name": "testNsbe",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "myPublic/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.7.1"
+  }
+}
